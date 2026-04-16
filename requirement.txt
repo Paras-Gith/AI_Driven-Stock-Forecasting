@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow
+keras
+torch
+jupyter
+
+# Optional but recommended for advanced forecasting & dashboards
+plotly
+dash
+streamlit
+prophet
+xgboost
